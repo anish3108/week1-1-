@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>Introduction to MERN Stack</title>
+
+</head>
+<body>
+    <h1>Introduction to MERN stack</h1>
+    <p>
+       The MERN stack is a popular set of technologies used for building full-stack JavaScript applications. 
+        It combines MongoDB, Express.js, React, and Node.js to enable efficient development of modern web applications. 
+    </p>
+    <ol>
+        <li>MongoDB</li>
+        <li>Express.js</li>
+        <li>React</li>
+        <li>Node.js</li>
+    </ol>
+    <img src="https://via.placeholder.com/600x300?text=MERN+Stack" alt="MERN Stack Image">
+    <p>
+        Learn more about <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>.
+    </p>
+</body>
+</html>
+# 🌐 Introduction to MERN Stack
+
+This project is a simple HTML page that provides an introduction to the **MERN stack**, a popular JavaScript-based technology stack used to build full-stack web applications.
+
+## 📄 Description
+
+The HTML file includes:
+- A short introduction to the MERN stack
+- An ordered list of its core components:
+  - MongoDB
+  - Express.js
+  - React
+  - Node.js
+- A sample image representing the MERN stack
+- A link to MongoDB’s official website
+
+## 🛠️ Technologies Used
+
+- HTML5
+- External image placeholder
+- Hyperlink to MongoDB site
+
+## 📁 File Structure
+
+
