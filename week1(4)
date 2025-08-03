@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+
+    <h1>John Wick</h1>
+
+    <p><strong>Email:</strong> Johnwick@85.com</p>
+    <p><strong>Phone:</strong> +91 8765432198</p>
+    <p><strong>Location:</strong> Hyderabad, India</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+        I am a motivated and detail-oriented individual with a passion for web development and design.
+        I enjoy learning new technologies and building user-friendly applications.
+    </p>
+
+    <h2>Education</h2>
+    <table border="1" cellpadding="8">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>Bachelor of Enginnering </td>
+            <td> CBIT </td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>Secondary </td>
+            <td>GPS</td>
+            <td>2018</td>
+        </tr>
+    </table>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML , CSS ,Javascript</li>
+        <li>Data Structures</li>
+        <li>Python</li>
+        <li>Version Control (Git)</li>
+        <li>Responsive Web Design</li>
+    </ul>
+
+</body>
+</html>
+
+# 📄 My Resume – HTML Project
+
+This is a simple personal **resume webpage** built using basic HTML. It includes structured sections like contact details, education, skills, and a personal summary. Ideal for showcasing your profile or practicing web development basics.
+
+---
+
+## 🔍 Overview
+
+This static resume page displays the following:
+
+- ✅ Name, email, phone, and location
+- ✅ A short "About Me" section
+- ✅ Education history in table format
+- ✅ A list of technical skills
+
+---
+
+## 🧱 Technologies Used
+
+- HTML5 (no CSS or JavaScript used)
+
+---
+
+## 📂 Project Structure
+
