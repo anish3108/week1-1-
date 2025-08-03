@@ -1,0 +1,90 @@
+
+<html>
+<head>
+<style>
+table{
+    font-family:arial,sans-serif;
+    border-collapse:collapse;
+    width:100%
+}
+td, th{
+    border:1px solid #dddddd;
+    text-align:left;
+    padding:8px;
+}
+tr:nth-child(even){
+    background-color:#dddddd;
+}
+</style>
+</head>
+<body>
+<h2>Time Table</h2>
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Subject</th>   
+    </tr>
+    <tr>
+        <td>9.00AM-10.00AM</td>
+        <td> EAD </td>
+    </tr>
+    <tr>
+        <td>10.00AM-11.00AM</td>
+        <td>CN</td>
+    </tr>
+    <tr>
+        <td>11.00AM-12.00PM</td>
+        <td> ML</td>
+    </tr>
+    <tr>
+        <td>12.00PM-1.00PM</td>
+        <td> FLAT</td>
+    </tr>
+    <tr>
+        <td>2.00PM-3.00PM</td>
+        <td> SE</td>
+    </tr>
+    <tr>
+        <td>3.00PM-4.00PM</td>
+        <td>CC</td>
+    </tr>
+
+</table>
+</body>
+</html>
+# 🕒 Student Timetable Project
+
+This project is a simple HTML and CSS-based **Student Timetable** layout. It displays a list of subjects with corresponding time slots in a tabular format. It's ideal for beginners learning HTML tables and basic CSS styling.
+
+---
+
+## 🔧 Features
+
+- Clean and readable table layout
+- Alternating row colors using CSS (`nth-child`)
+- Responsive width table using plain HTML & CSS
+- Covers time slots from 9.00AM to 4.00PM
+
+---
+
+## 📚 Subjects Included
+
+- EAD (Enterprise Application Development)
+- CN (Computer Networks)
+- ML (Machine Learning)
+- FLAT (Formal Languages and Automata Theory)
+- SE (Software Engineering)
+- CC (Cloud Computing)
+
+---
+
+## 💡 How to Use
+
+1. Download or clone the project files.
+2. Open `index.html` in any web browser.
+3. View the timetable directly in the browser.
+
+---
+
+## 📁 Project Structure
+
